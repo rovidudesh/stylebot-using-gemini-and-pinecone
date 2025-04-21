@@ -1,0 +1,5 @@
+flask
+langchain
+langchain_google_genai
+google
+pinecone
