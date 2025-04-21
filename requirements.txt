@@ -1,5 +1,29 @@
-flask
-langchain
-langchain_google_genai
-google
+# LangChain and core dependencies
+langchain>=0.1.0
+langchain-community
+langchain-google-genai
+langchain-pinecone
+
+# Google Generative AI
+google-generativeai
+
+# Embeddings and Transformers
+sentence-transformers>=2.2.2
+huggingface_hub>=0.14.1
+
+# Pinecone vector store
+pinecone-client
 pinecone
+
+# PDF parsing
+pypdf
+
+# Flask for API server (optional)
+flask
+
+# Jupyter notebook (optional, for .ipynb support)
+notebook
+ipykernel
+
+# Environment handling (recommended for .env files if needed)
+python-dotenv
