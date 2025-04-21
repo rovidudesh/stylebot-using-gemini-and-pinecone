@@ -31,3 +31,4 @@ python-dotenv
 sentence-transformers         # Text embedding model (MiniLM)
 huggingface_hub         # Compatible version for sentence-transformers
 
+-e . # Local package for the project
