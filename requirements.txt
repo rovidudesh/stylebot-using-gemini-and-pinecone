@@ -27,3 +27,7 @@ ipykernel
 
 # Environment handling (recommended for .env files if needed)
 python-dotenv
+
+sentence-transformers         # Text embedding model (MiniLM)
+huggingface_hub         # Compatible version for sentence-transformers
+
